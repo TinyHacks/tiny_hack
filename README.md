@@ -1,6 +1,6 @@
 
 
-# TINY HACKS
+![TINY HACKS](https://github.com/TinyHacks/tiny_hack/blob/master/assets/th_tiny_hack.png)
 Simple **10-day hackathon** to help you make things that excite you.
 
 ## The Challenge
