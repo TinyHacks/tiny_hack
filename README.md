@@ -29,7 +29,7 @@ List of all the awesome projects -
 
 ### Next 10 days: VALIDATIONS
 1. Share your projects with your friends, family and community.
-2. If they like your projects then ask them to go to your Pull Request on tiny_hack repo and upvote it with a emoji (:thumbsup: or :tada:). 
+2. If they like your projects then ask them to go to your Pull Request on tiny_hack repo and upvote it with a emoji (like :thumbsup: or :tada:). 
 
 **All the repos that get more than 15 emoji upvotes will be added ( merged ) to the HALL OF FAME projects** and all other PRs will be closed.
 
@@ -48,4 +48,5 @@ If you're **new to Git, GitHub, or version control**…
 ## Projects ( HALL OF FAME )
 
 List of all the awesome projects - 
+
 1. 
