@@ -47,6 +47,6 @@ If you're **new to Git, GitHub, or version control**…
 
 ## Projects ( HALL OF FAME )
 
-List of all the awesome projects - 
+List of all the awesome projects -
 
-1. 
+1. [Personal portfolio](sparshpaliwal.com)
