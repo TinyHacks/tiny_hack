@@ -20,10 +20,10 @@ Projects ( HALL OF FAME )
 
 List of all the awesome projects - 
 [-] 1.
-[+] 1. [Personal portfolio](sparshpaliwal.com)
+[+] 1. [Personal portfolio](https://www.sparshpaliwal.com)
 ...
 ```
-4. which results in something like -  1. [Personal portfolio](sparshpaliwal.com)
+4. which results in something like -  1. [Personal portfolio](https://www.sparshpaliwal.com)
 5. Commit the change and create a Pull Request to the [tiny_hack](https://github.com/TinyHacks/tiny_hack)  repo and add comment to your PR mentioning details of your project and links to the project.
 **NOTE** - *We have added a sample PR in the Pull Requests section of this repo to help you understand how things work.*
 
